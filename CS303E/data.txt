@@ -1,0 +1,3 @@
+Alice: US, Canada, Mexico
+Bob: Peru, Cuba, Mexico, US
+Charlie: Cuba, Canada, US
